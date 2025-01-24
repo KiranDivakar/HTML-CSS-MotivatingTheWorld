@@ -1,0 +1,21 @@
+html {
+  background-color: #3c3d37;
+}
+h1 {
+  text-transform: uppercase;
+}
+.motivatePoster {
+  color: beige;
+  font-family: "Oswald", serif;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.motivatePosterImg {
+    border: 2px solid beige;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 60px;
+}
+p{
+    font-size: 15px;
+}
